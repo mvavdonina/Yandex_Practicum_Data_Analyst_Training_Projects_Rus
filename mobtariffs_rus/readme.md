@@ -1,5 +1,5 @@
 ## Учебный проект "Анализ поведения клиентов сотового оператора на разных тарифных планах"
-[Открыть проект в nbviewer](https://nbviewer.org/github/Emiranunuka/Yandex_Practicum_Data_Analyst_Training_Projects_Rus/blob/main/games_rus/avdonina_mobtariffs_rus.ipynb)
+[Открыть проект в nbviewer](https://nbviewer.org/github/Emiranunuka/Yandex_Practicum_Data_Analyst_Training_Projects_Rus/blob/main/mobtariffs_rus/avdonina_mobtariffs_rus.ipynb)
 ### Описание проекта и задачи
 Клиентам федерального оператора сотовой связи предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы спланировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. Есть данные о 500 пользователей компании: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год.
 
